@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Miloš 👋 (He/Him)
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/irreal/irreal)
+[![GitHub followers](https://img.shields.io/github/followers/irreal.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/irreal?tab=followers)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irreal)](https://github.com/irreal/irreal)
 
 <!--
 **irreal/irreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
