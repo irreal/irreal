@@ -1,9 +1,14 @@
 ### Hi, I'm Miloš 👋 (He/Him)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/irreal/irreal)
-[![GitHub followers](https://img.shields.io/github/followers/irreal.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/irreal?tab=followers)
+I’ve been enamored with software development since the age of 6. Over 25 years later, it remains my greatest passion.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irreal)](https://github.com/irreal/irreal)
+My focus is on improving the developer experience and tooling, exploring new technologies, and finding the right balance for my team between completing tasks and maintaining code quality and maintainability.
+In addition to coding, I’ve taken on managerial roles, devoting about half of my attention to creating a highly functioning team and looking at what is next on the horizon.
+I split my coding time equally to frontend and backend work.
+
+I'm currently working as a CTO of an iGaming startup company.
+You can reach me at: milos.s.pfc@gmail.com
+I'm also irreal_s on twitter
 
 <!--
 **irreal/irreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
