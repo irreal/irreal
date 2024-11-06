@@ -1,4 +1,4 @@
-### Hi, I'm Miloš 👋 (He/Him)
+### Hi, I'm Miloš 👋
 
 I’ve been enamored with software development since the age of 6. Over 25 years later, it remains my greatest passion.
 
