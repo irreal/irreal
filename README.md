@@ -1,12 +1,16 @@
 ### Hi, I'm Miloš 👋
 
-I’ve been enamored with software development since the age of 6. Over 25 years later, it remains my greatest passion.
+I’ve been enamored with software development since the age of 6. Over 30 years later, it remains my greatest passion.
 
-My focus is on improving the developer experience and tooling, exploring new technologies, and finding the right balance for my team between completing tasks and maintaining code quality and maintainability.
-In addition to coding, I’ve taken on managerial roles, devoting about half of my attention to creating a highly functioning team and looking at what is next on the horizon.
-I split my coding time equally to frontend and backend work.
+I love to obsess around the developer experience, tooling, exploring new technologies and new ways of thinking about software.
+I never claim to know what's the best language, tool or pattern to use, but I like to try everything and attempt to deduce what might work well for the task at hand.
 
-I'm currently working as a CTO of an iGaming startup company.
+In addition to coding, I’m very used to working with people and putting the right people together to get the ball moving.
+
+
+My last full time position was as a technical lead / CTO of a small iGaming startup company.
+For the past year I have focused on doing personal projects, freelance work and talking to other people in the industry.
+
 You can reach me at: milos.s.pfc@gmail.com
 I'm also irreal_s on twitter
 
