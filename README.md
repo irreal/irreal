@@ -9,7 +9,7 @@ In addition to coding, I’m very used to working with people and putting the ri
 
 
 My last full time position was as a technical lead / CTO of a small iGaming startup company.
-For the past year I have focused on doing personal projects, freelance work and talking to other people in the industry.
+Recently I have focused on doing personal projects, freelance work and talking to other people in the industry.
 
 You can reach me at: milos.s.pfc@gmail.com
 I'm also irreal_s on twitter
